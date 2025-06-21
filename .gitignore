@@ -1,0 +1,9 @@
+__pycache__/ 
+*.pyc 
+*.zip 
+venv/ 
+.venv/ 
+*.log 
+.env 
+catboost_info/ 
+.DS_Store 
